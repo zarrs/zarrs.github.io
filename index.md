@@ -15,10 +15,10 @@ hero:
       link: https://docs.zarrs.dev
     - theme: alt
       text: Python API
-      link: https://zarrs-python.readthedocs.io/en/latest/
-    - theme: alt
-      text: C/C++ API
-      link: https://ldeakin.github.io/zarrs_ffi/
+      link: https://zarrs-python.readthedocs.io/en/stable/
+    # - theme: alt
+    #   text: C/C++ API
+    #   link: https://ldeakin.github.io/zarrs_ffi/
     - theme: alt
       text: The zarrs Book
       link: https://book.zarrs.dev

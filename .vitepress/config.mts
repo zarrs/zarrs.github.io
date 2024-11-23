@@ -9,19 +9,34 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       {
-        text: 'GitHub',
+        text: 'GitHub / Docs',
         items: [
-          { text: 'zarrs (Rust)', link: 'https://github.com/LDeakin/zarrs' },
-          { text: 'zarrs-python (Python)', link: 'https://github.com/ilan-gold/zarrs-python' },
-          { text: 'zarrs_ffi (C/C++)', link: 'https://github.com/LDeakin/zarrs_ffi' },
-        ]
-      },
-      {
-        text: 'API Docs',
-        items: [
-          { text: 'zarrs (docs.rs)', link: 'https://docs.rs/zarrs/latest/zarrs/' },
-          { text: 'zarrs-python (readthedocs.io)', link: 'https://zarrs-python.readthedocs.io/en/latest/' },
-          { text: 'zarrs_ffi (doxygen)', link: 'https://ldeakin.github.io/zarrs_ffi/' },
+          { 
+            text: 'zarrs (Rust)',
+            items: [
+              { text: 'Source (github.com)', link: 'https://github.com/LDeakin/zarrs' },
+              { text: 'Docs (docs.rs)', link: 'https://docs.rs/zarrs/latest/zarrs/' },
+              { text: 'Rust crate (crates.io)', link: 'https://crates.io/crates/zarrs' },
+              { text: 'Changelog (github.com)', link: 'https://github.com/LDeakin/zarrs/blob/main/CHANGELOG.md' },
+            ]
+          },
+          { 
+            text: 'zarrs-python (Python)',
+            items: [
+              { text: 'Source (github.com)', link: 'https://github.com/ilan-gold/zarrs-python' },
+              { text: 'Docs (readthedocs.io)', link: 'https://zarrs-python.readthedocs.io/en/stable/' },
+              { text: 'Python package (pypi.org)', link: 'https://pypi.org/project/zarrs/' },
+            ]
+          },
+          { 
+            text: 'zarrs_ffi (C/C++)',
+            items: [
+              { text: 'Source (github.com)', link: 'https://github.com/LDeakin/zarrs_ffi' },
+              { text: 'Docs (github.io)', link: 'https://ldeakin.github.io/zarrs_ffi/' },
+              { text: 'Rust crate (crates.io)', link: 'https://crates.io/crates/zarrs_ffi' },
+              { text: 'Changelog (github.com)', link: 'https://github.com/LDeakin/zarrs_ffi/blob/main/CHANGELOG.md' },
+            ]
+          }
         ]
       },
       {
