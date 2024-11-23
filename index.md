@@ -46,10 +46,10 @@ features:
     details: Supports filesystem, in-memory, and a huge range of object storage backends (e.g. HTTP, S3, GCP, etc.) via the <a class="custom-link" href="https://crates.io/crates/object_store">object_store</a> and <a class="custom-link" href="https://crates.io/crates/opendal">opendal</a> crates, and <a class="custom-link" href="https://icechunk.io">icechunk</a> transactional storage.
   - icon: 🔨
     title: Tools Built with Zarrs
-    details: <ul><li>•<a class="custom-link" href="https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_reencode.md">zarrs_reencode</a> reencode/convert V2->V3</li><li>•<a class="custom-link" href="https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_ome.md">zarrs_ome</a> create OME-Zarr multiscale images</li><li>•<a class="custom-link" href="https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_filter.md">zarrs_filter</a> manipulate arrays (crop, blur, ...)</li><li>... and more in <a class="custom-link" href="https://github.com/LDeakin/zarrs_tools">zarrs_tools</a></ul>
+    details: •<a class="custom-link" href="https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_reencode.md">zarrs_reencode</a> reencode/convert V2->V3<br>•<a class="custom-link" href="https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_ome.md">zarrs_ome</a> create OME-Zarr multiscale images<br>•<a class="custom-link" href="https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_filter.md">zarrs_filter</a> manipulate arrays (crop, blur, ...)<br>... and more in <a class="custom-link" href="https://github.com/LDeakin/zarrs_tools">zarrs_tools</a>
   - icon: 🧪
     title: Draft ZEP/Experimental Codec Support
-    details: <ul><li>✓ ZEP 2 - Sharding Codec</li><li>✓ ZEP 3 (Draft) - Variable Chunking</li><li>✓ ZEP 7 (Draft) - Strings</li><li>✓ <code>bitround</code>, <code>zfp</code>, <code>pcodec</code>, <code>bz2</code>, <code>gdeflate</code> codecs</ul>
+    details: ✓ ZEP 2 - Sharding Codec<br>✓ ZEP 3 (Draft) - Variable Chunking<br>✓ ZEP 7 (Draft) - Strings<br>✓ <code>bitround</code>, <code>zfp</code>, <code>pcodec</code>, <code>bz2</code>, <code>gdeflate</code> codecs
 ---
 
 <style>
