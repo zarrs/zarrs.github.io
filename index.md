@@ -34,7 +34,7 @@ features:
     #   src: ./rust-logo-blk.svg
     #   src: ./rust-logo-128x128.png
     title: Performance-Driven Design
-    details: Powered by Rust, and designed for high-performance. Leverages chunk and codec parallelism for encoding/decoding performance.
+    details: Powered by Rust, and designed for high-performance. Leverages chunk and codec parallelism for array data storage and retrieval.
   - icon: <svg xmlns="http://www.w3.org/2000/svg" width="30" viewBox="0 0 256 256.32"><image x="10%" y="10%" height="100%" xlink:href="python-logo-only.svg"/></svg>
     title: Accelerated Codec Pipeline for Python
     details: <a class="custom-link" href="https://github.com/ilan-gold/zarrs-python">zarrs-python</a> includes a drop-in high-performance codec pipeline for the <a class="custom-link" href="https://github.com/zarr-developers/zarr-python">zarr-python</a> reference implementation.
