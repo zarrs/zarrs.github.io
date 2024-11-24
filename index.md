@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "zarrs"
+  name: "zar<u>rs</u>"
   text: "A <i>Rust</i> library for the Zarr storage format"
 #   tagline: + Python bindings for the zarr-python reference implementation<br>+ C/C++ bindings <br>+ CLI tools for array manipulation
   actions:
