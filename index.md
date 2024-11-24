@@ -23,7 +23,7 @@ hero:
       text: The zarrs Book
       link: https://book.zarrs.dev
     - theme: alt
-      text: Performance Benchmarks
+      text: Benchmarks
       link: https://github.com/LDeakin/zarr_benchmarks
     - theme: alt
       text: CLI Tools
@@ -45,7 +45,7 @@ features:
     title: Diverse Storage Support
     details: Supports filesystem, in-memory, and a huge range of object storage backends (e.g. HTTP, S3, GCP, etc.) via the <a class="custom-link" href="https://crates.io/crates/object_store">object_store</a> and <a class="custom-link" href="https://crates.io/crates/opendal">opendal</a> crates, and <a class="custom-link" href="https://icechunk.io">icechunk</a> transactional storage.
   - icon: 🔨
-    title: Tools Built with Zarrs
+    title: Tools Built with <code>zarrs</code>
     details: •<a class="custom-link" href="https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_reencode.md">zarrs_reencode</a> reencode, convert V2->V3, ...<br>•<a class="custom-link" href="https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_ome.md">zarrs_ome</a> create OME-Zarr multiscale images<br>•<a class="custom-link" href="https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_filter.md">zarrs_filter</a> manipulate arrays (crop, blur, ...)<br>... and more in <a class="custom-link" href="https://github.com/LDeakin/zarrs_tools">zarrs_tools</a>
   - icon: 🧪
     title: Draft ZEP/Experimental Codec Support
