@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "zarrs",
-  description: "zarrs: a Rust library for the Zarr storage format for multidimensional arrays and metadata",
+  description: "A Rust library for the Zarr storage format for multidimensional arrays and metadata",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
