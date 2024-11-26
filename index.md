@@ -51,11 +51,3 @@ features:
     title: Forever free and open-source
     details: Contributions are welcome.<br>• <a class="custom-link" href="https://github.com/LDeakin/zarrs">zarrs</a> (github.com)<br>• <a class="custom-link" href="https://github.com/ilan-gold/zarrs-python">zarrs-python</a> (github.com)
 ---
-
-<style>
-
-a.custom-link {
-    text-decoration: underline;
-}
-
-</style>

@@ -1,0 +1,22 @@
+a.custom-link {
+    text-decoration: underline;
+}
+
+span.clip u {
+    /* This keep the underscore under rs in zarrs */
+    text-decoration-color: #bb1085;
+}
+
+:root {
+  /* https://github.com/zarr-developers/zarr-logo/blob/main/README.md */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(0deg, #e58077, #bb1085);
+  --vp-button-brand-bg: #e34b75;
+  --vp-c-brand-1: #e34b75;
+}
+
+.VPMenuGroup p.title {
+    color: var(--vp-home-hero-name-color);
+    background: var(--vp-home-hero-name-background);
+    background-clip: text;
+}
