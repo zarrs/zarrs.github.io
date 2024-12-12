@@ -82,7 +82,6 @@ gtag('config', 'G-VHHG8S6E38');`
             text: 'Conversion to Zarr',
             items: [
               { text: 'zarrs_binary2zarr', link: 'https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_binary2zarr.md' },
-              { text: 'zarrs_ncvar2zarr', link: 'https://github.com/LDeakin/zarrs_tools/blob/main/docs/zarrs_ncvar2zarr.md' },
             ]
           },
         ]
