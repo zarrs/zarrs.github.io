@@ -51,3 +51,9 @@ features:
     title: Forever free and open-source
     details: Contributions are welcome.<br>• <a class="custom-link" href="https://github.com/zarrs/zarrs">zarrs</a> (github.com)<br>• <a class="custom-link" href="https://github.com/zarrs/zarrs-python">zarrs-python</a> (github.com)
 ---
+
+### Announcements
+
+- <tt>2025/05/17</tt>: `zarrs` 0.20.0 has been released with support for Zarr 3.1, ZEP0009, ZEP0010 (draft), new codecs, and extension data types.
+- <tt>2025/05/13</tt>: `LDeakin/zarrs`, `ilan-gold/zarrs-python`, and other `zarrs`-related repositories have moved to the [`zarrs` GitHub organisation](https://github.com/zarrs).
+- <tt>2025/05/08</tt>: `zarrs` has joined the newly refreshed [Zarr Implementation Council (ZIC)](https://github.com/zarr-developers/governance/blob/main/GOVERNANCE.md#zarr-implementation-council-zic).
