@@ -11,19 +11,19 @@
   </defs>
 
   <text
-    x="40"
+    x="5"
     y="230"
     font-family="Inter"
-    font-size="120"
+    font-size="153"
     font-weight="700"
     fill="url(#textGradient)"
     text-rendering="geometricPrecision"
   >zarrs</text>
 
   <rect
-    x="225"
+    x="242"
     y="240"
-    width="114"
+    width="147"
     height="20"
     fill="url(#lineGradient)"
   />
