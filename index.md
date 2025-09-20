@@ -54,7 +54,8 @@ features:
 
 ### Announcements
 
-- <tt>2025/06/08</tt>: `zarrs` 0.21.0 has been released with several bug fixes and support for a number of additional data types.
-- <tt>2025/05/17</tt>: `zarrs` 0.20.0 has been released with support for Zarr 3.1, ZEP0009, ZEP0010 (draft), new codecs, and extension data types.
+- <tt>2025/09/18</tt>: `zarrs` 0.22 released: new extensions, initial generic indexing/WASM support, expanded experimental partial encoding.
+- <tt>2025/06/08</tt>: `zarrs` 0.21 released: several bug fixes and support for a number of additional data types.
+- <tt>2025/05/17</tt>: `zarrs` 0.20 released: support for Zarr 3.1, ZEP0009, ZEP0010 (draft), new codecs, and extension data types.
 - <tt>2025/05/13</tt>: `LDeakin/zarrs`, `ilan-gold/zarrs-python`, and other `zarrs`-related repositories have moved to the [`zarrs` GitHub organisation](https://github.com/zarrs).
 - <tt>2025/05/08</tt>: `zarrs` has joined the newly refreshed [Zarr Implementation Council (ZIC)](https://github.com/zarr-developers/governance/blob/main/GOVERNANCE.md#zarr-implementation-council-zic).
