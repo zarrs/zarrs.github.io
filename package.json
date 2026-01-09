@@ -2,6 +2,9 @@
   "devDependencies": {
     "vitepress": "^1.6.4"
   },
+  "dependencies": {
+    "@arborium/arborium": "^2.12.4"
+  },
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
