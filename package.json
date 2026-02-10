@@ -3,7 +3,7 @@
     "vitepress": "^1.6.4"
   },
   "dependencies": {
-    "@arborium/arborium": "^2.12.4"
+    "@arborium/arborium": "^2.13.0"
   },
   "scripts": {
     "docs:dev": "vitepress dev",
