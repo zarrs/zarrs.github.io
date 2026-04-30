@@ -21,6 +21,25 @@ span.clip u {
     background-clip: text;
 }
 
+.announcement-pill {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid rgba(227, 75, 117, 0.35);
+    border-radius: 999px;
+    padding: 0.1em 0.55em;
+    background: rgba(227, 75, 117, 0.1);
+    color: var(--vp-c-brand-1);
+    font-size: 0.85em;
+    font-weight: 700;
+    line-height: 1.4;
+    vertical-align: 0.08em;
+}
+
+html.dark .announcement-pill {
+    border-color: rgba(229, 128, 119, 0.45);
+    background: rgba(229, 128, 119, 0.14);
+}
+
 /* Arborium dark mode for VitePress (.dark class on html) */
 html.dark a-at { color: var(--arb-at-dark); font-weight: var(--arb-at-dark-weight, normal); font-style: var(--arb-at-dark-style, normal); text-decoration: var(--arb-at-dark-decoration, none); }
 html.dark a-co { color: var(--arb-co-dark); font-weight: var(--arb-co-dark-weight, normal); font-style: var(--arb-co-dark-style, normal); text-decoration: var(--arb-co-dark-decoration, none); }

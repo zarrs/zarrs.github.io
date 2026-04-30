@@ -54,6 +54,9 @@ features:
 
 ### Announcements
 
+- <tt>2026/04/21</tt>: <span class="announcement-pill">Community</span> [`pizzarr` (R)](https://github.com/zarr-developers/pizzarr) 0.2.0 released: `zarrs` has been swapped in as the parallel backend.
+- <tt>2026/03/13</tt>: <span class="announcement-pill">Community</span> [`Zarrs.jl` (Julia)](https://github.com/earth-mover/Zarrs.jl) 0.1.0 released: a wrapper over the `zarrs` library by Joe Hamman from Earthmover.
+- <tt>2026/03/04</tt>: <span class="announcement-pill">Community</span> [`zarrs_n5` (Rust)](https://github.com/clbarnes/zarrs_n5) 0.1.0 released: [N5](https://github.com/saalfeldlab/n5) format support for the `zarrs` ecosystem by Chris Barnes.
 - <tt>2026/02/02</tt>: `zarrs` 0.23 released: improve performance and ergonomics, <tt>optional</tt> data type and codec, more flexible extension point support.
 - <tt>2025/09/18</tt>: `zarrs` 0.22 released: new extensions, initial generic indexing/WASM support, expanded experimental partial encoding.
 - <tt>2025/06/08</tt>: `zarrs` 0.21 released: several bug fixes and support for a number of additional data types.
