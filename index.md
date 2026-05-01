@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "zar<u>rs</u>"
   text: "A <i>Rust</i> library for the Zarr storage format"
-#   tagline: + Python bindings for the zarr-python reference implementation<br>+ C/C++ bindings <br>+ CLI tools for array manipulation
+  tagline: A backbone of the Zarr ecosystem with bindings in Python, C/C++, R, Julia, and MATLAB.
   actions:
     - theme: brand
       text: GitHub
