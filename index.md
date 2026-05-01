@@ -54,10 +54,11 @@ features:
 
 ### Announcements
 
-- <tt>2026/04/21</tt>: <span class="announcement-pill">Community</span> [`pizzarr` (R)](https://github.com/zarr-developers/pizzarr) 0.2.0 released: `zarrs` has been swapped in as the parallel backend.
-- <tt>2026/03/13</tt>: <span class="announcement-pill">Community</span> [`Zarrs.jl` (Julia)](https://github.com/earth-mover/Zarrs.jl) 0.1.0 released: a wrapper over the `zarrs` library by Joe Hamman from Earthmover.
-- <tt>2026/03/04</tt>: <span class="announcement-pill">Community</span> [`zarrs_n5` (Rust)](https://github.com/clbarnes/zarrs_n5) 0.1.0 released: [N5](https://github.com/saalfeldlab/n5) format support for the `zarrs` ecosystem by Chris Barnes.
+- <tt>2026/04/21</tt>: <span class="announcement-pill">Community</span> [`pizzarr` (R)](https://github.com/zarr-developers/pizzarr) 0.2.0 released: `zarrs` is now the parallel backend thanks to David Blodgett from the [U.S. Geological Survey](https://www.usgs.gov/).
+- <tt>2026/03/13</tt>: <span class="announcement-pill">Community</span> [`Zarrs.jl` (Julia)](https://github.com/earth-mover/Zarrs.jl) 0.1.0 released: a wrapper over the `zarrs` library by Joe Hamman from [Earthmover](https://www.earthmover.io/).
+- <tt>2026/03/04</tt>: <span class="announcement-pill">Community</span> [`zarrs_n5` (Rust)](https://github.com/clbarnes/zarrs_n5) 0.1.0 released: [N5](https://github.com/saalfeldlab/n5) format support for the `zarrs` ecosystem by Chris Barnes from [German Bioimaging](https://gerbi-gmb.de/).
 - <tt>2026/02/02</tt>: `zarrs` 0.23 released: improve performance and ergonomics, <tt>optional</tt> data type and codec, more flexible extension point support.
+- <tt>2026/01/27</tt>: <span class="announcement-pill">Community</span> [`zarr-matlab`](https://github.com/scalableminds/zarr-matlab) 0.1.0 released: A Zarr v3 implementation based on `zarrs` for MATLAB by Norman Rzepka from [Scalable Minds](https://scalableminds.com/).
 - <tt>2025/09/18</tt>: `zarrs` 0.22 released: new extensions, initial generic indexing/WASM support, expanded experimental partial encoding.
 - <tt>2025/06/08</tt>: `zarrs` 0.21 released: several bug fixes and support for a number of additional data types.
 - <tt>2025/05/17</tt>: `zarrs` 0.20 released: support for Zarr 3.1, ZEP0009, ZEP0010 (draft), new codecs, and extension data types.
