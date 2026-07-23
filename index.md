@@ -54,6 +54,7 @@ features:
 
 ### Announcements
 
+- <tt>2026/06/17</tt>: <span class="announcement-pill">Community</span> [`zarrista` (Python)](https://github.com/developmentseed/zarrista) 0.1.0-beta.1 released: a low-level Zarr API for Python powered by `zarrs`, by Kyle Barron from [Development Seed](https://developmentseed.org/).
 - <tt>2026/04/21</tt>: <span class="announcement-pill">Community</span> [`pizzarr` (R)](https://github.com/zarr-developers/pizzarr) 0.2.0 released: `zarrs` is now the parallel backend thanks to David Blodgett from the [U.S. Geological Survey](https://www.usgs.gov/).
 - <tt>2026/04/10</tt>: `zarrs_icechunk` 0.5.0 released with support for [`Icechunk`](https://icechunk.io/en/stable/) 2.0 - a transactional storage engine for Zarr by [Earthmover](https://www.earthmover.io/).
 - <tt>2026/03/13</tt>: <span class="announcement-pill">Community</span> [`Zarrs.jl` (Julia)](https://github.com/earth-mover/Zarrs.jl) 0.1.0 released: a wrapper over the `zarrs` library by Joe Hamman from [Earthmover](https://www.earthmover.io/).
